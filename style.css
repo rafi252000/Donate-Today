@@ -2,7 +2,10 @@
     margin: 0%;
     padding: 0%;
 }
-
+.text-middle{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
 h1 {
     font-family: 'Inter', sans-serif;
     text-align: center;
@@ -28,11 +31,11 @@ p {
 }
 
 .button1 {
-    font-family: 'Poppins', sans-serif;
-    padding: 13px 32px;
-    color: white;
-    border-radius: 5px;
-    background-color: red;
+    text-decoration: none;
+    background-image: linear-gradient(orange,tomato);
+    padding: 10px 40px;
+    border-radius: 10px;
+    font-weight: 1000px;
 }
 
 .div-button {
@@ -145,7 +148,10 @@ p {
     padding-bottom: 25px;
 
 }
-
+.top{
+    margin-top: 5%;
+    margin-bottom: 50px;
+}
 .subscribe {
     text-align: center;
     flex: auto;
@@ -189,7 +195,12 @@ footer {
     padding-bottom: 20px;
     text-align: center;
 }
-
+.color{
+    color:orange;
+}
+.font--covid{
+    font-size: 15px;
+}
 #footer-head {
     font-family: 'Lobster', cursive;
     font-size: 35px;
@@ -238,4 +249,24 @@ footer {
     text-decoration: none;
     background-color: red;
     text-align: left;
+}
+.width{
+    
+    display: flex;
+    padding-left: 5%;
+    padding-right: 3%;
+    margin-top: px;
+    
+    
+}
+.coding-image{
+    width: 85%;
+    height: auto;
+}
+.half-width{
+    width: 50%;
+    margin-left: 3%;
+    
+}.span-size{
+    font-size: 37px;
 }
