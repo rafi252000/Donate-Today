@@ -1,0 +1,241 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+h1 {
+    font-family: 'Inter', sans-serif;
+    text-align: center;
+}
+
+p {
+    font-family: 'Poppins', sans-serif;
+}
+
+.heading1 {
+    padding-left: 280px;
+    padding-right: 280px;
+    font-size: 65px;
+    color: white;
+    padding-top: 150px;
+}
+
+.para1 {
+    padding-left: 375px;
+    padding-right: 375px;
+    color: white;
+    text-align: center
+}
+
+.button1 {
+    font-family: 'Poppins', sans-serif;
+    padding: 13px 32px;
+    color: white;
+    border-radius: 5px;
+    background-color: red;
+}
+
+.div-button {
+    text-align: center;
+}
+
+.section1 {
+    background-image: url(images/new.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 669px;
+    width: 100%;
+    padding-top: 120px;
+}
+
+.heading2 {
+    padding-left: 280px;
+    padding-right: 280px;
+    color: rgb(0, 0, 0);
+    font-size: 43px;
+    padding-bottom: 0;
+}
+
+.para2 {
+    padding-left: 30%;
+    padding-right: 30%;
+    text-align: center;
+
+}
+
+.flex4 {
+    display: flex;
+    padding-left: 22%;
+    padding-right: 22%;
+    margin-bottom: 3%;
+}
+
+#align-2 {
+    color: red;
+    border: solid 3px red;
+    background-color: rgba(255, 0, 0, 0.074);
+}
+
+.align {
+    text-align: center;
+    width: 18%;
+    height: 90px;
+    margin-left: 2%;
+    margin-right: 2%;
+    color: rgb(91, 91, 91);
+    background-color: rgba(10, 10, 10, 0.038);
+    border: 0;
+    border-radius: 5px;
+}
+
+.hrtag {
+    width: 50%;
+    text-align: center;
+    margin: 0% auto;
+}
+
+.section2 {
+    margin-top: 5%;
+    margin-bottom: 10%;
+}
+
+.flex3 {
+    display: flex;
+    padding-left: 13%;
+    padding-right: 12%;
+}
+
+.three-in-one1 {
+    text-align: left;
+    width: 25%;
+    padding-left: 2.5%;
+    padding-right: 2.5%;
+    padding-top: 50px;
+    margin-right: 15px;
+    margin-left: 15px;
+    background-color: rgba(102, 171, 171, 0.375);
+    border-radius: 6px;
+    padding-bottom: 25px;
+
+}
+
+.three-in-one2 {
+    text-align: left;
+    width: 25%;
+    padding-left: 2.5%;
+    padding-right: 2.5%;
+    padding-top: 50px;
+    margin-right: 15px;
+    margin-left: 15px;
+    background-color: rgba(196, 144, 186, 0.341);
+    border-radius: 6px;
+    padding-bottom: 25px;
+
+}
+
+.three-in-one3 {
+    text-align: left;
+    width: 25%;
+    padding-left: 2.5%;
+    padding-right: 2.5%;
+    padding-top: 50px;
+    margin-right: 15px;
+    margin-left: 15px;
+    background-color: rgba(255, 236, 170, 0.492);
+    padding-bottom: 25px;
+
+}
+
+.subscribe {
+    text-align: center;
+    flex: auto;
+    background-color: bisque;
+    padding-top: 45px;
+    padding-bottom: 45px;
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-bottom: 100px;
+}
+
+.buttonlast {
+    color: white;
+    background-color: red;
+    border: 0;
+    border-radius: 2px;
+    margin-left: -9px;
+    padding: 4px;
+    margin-bottom: -5px;
+
+}
+
+.email-input {
+    background-color: rgb(255, 250, 250);
+    border: 0;
+    border-radius: 4px;
+    padding: 3.5px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.donate-input {
+    border: 0;
+    font-family: 'Courier New', Courier, monospace;
+    padding-bottom: 3px;
+
+}
+
+footer {
+    background-color: rgb(0, 0, 0);
+    padding-top: 10px;
+    padding-bottom: 20px;
+    text-align: center;
+}
+
+#footer-head {
+    font-family: 'Lobster', cursive;
+    font-size: 35px;
+    color: rgb(245, 34, 34);
+}
+
+#footer-paragraph {
+    color: aliceblue;
+    font-size: 13px;
+}
+
+.flex2 {
+    
+    display: flex;
+    padding-left: 100px;
+    padding-right: 100px;
+    margin-top: 250px;
+    margin-bottom: 250px;
+}
+
+#bonus-heading {
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 10%;
+}
+
+#bonus-img {
+    padding-left: 5%;
+    padding-right: 5%;
+
+}
+
+#heading3 {
+    color: rgb(0, 0, 0);
+    font-size: 45px;
+    padding-bottom: 10px;
+    text-align: left;
+    padding-top: 120px;
+}
+
+#button2 {
+    font-family: 'Poppins', sans-serif;
+    padding: 13px 32px;
+    color: white;
+    border-radius: 5px;
+    text-decoration: none;
+    background-color: red;
+    text-align: left;
+}
